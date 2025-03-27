@@ -137,13 +137,13 @@ print("\nModel saved as 'linear_regression_model.pth'")
 
 ### Dataset Information
 
-![Screenshot 2025-03-27 091454](https://github.com/user-attachments/assets/7ed26f25-d137-450b-8b9f-0a1efa270694)
+![Screenshot 2025-03-27 141552](https://github.com/user-attachments/assets/dd7f44d8-350a-4a4d-a101-aad715b57448)
 
 ### OUTPUT
 
-![Screenshot 2025-03-27 091516](https://github.com/user-attachments/assets/5ef4dd3b-8248-4bdf-9424-a5ec2a1d8ade)
+![Screenshot 2025-03-27 141557](https://github.com/user-attachments/assets/15392250-1166-4817-9222-4b6b85ef3d25)
 
-![Screenshot 2025-03-27 091527](https://github.com/user-attachments/assets/7576aabe-fd8e-44b4-b2c1-8f743f196e96)
+![Screenshot 2025-03-27 141604](https://github.com/user-attachments/assets/e1baf560-5fb2-4692-9cd3-fbf419f7d393)
 
 ### New Sample Data Prediction
 ![Screenshot 2025-03-27 141323](https://github.com/user-attachments/assets/a41bf59f-d308-490a-9646-6a4dc0b7fe6a)
