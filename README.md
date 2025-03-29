@@ -137,8 +137,6 @@ torch.save(model.state_dict(), 'haritharegression.pt')
 
 ![Screenshot 2025-03-27 141604](https://github.com/user-attachments/assets/e1baf560-5fb2-4692-9cd3-fbf419f7d393)
 
-### New Sample Data Prediction
-![Screenshot 2025-03-27 141323](https://github.com/user-attachments/assets/a41bf59f-d308-490a-9646-6a4dc0b7fe6a)
 
 
 ## RESULT
