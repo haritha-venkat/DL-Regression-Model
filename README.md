@@ -76,8 +76,8 @@ model = Model(1, 1)
 initial_weight = model.linear.weight.item()
 initial_bias = model.linear.bias.item()
 
-print("\nName: CHANDRU M")
-print("Register No: 212222230026")
+print("\nName: haritha ")
+print("Register No: 212222230046")
 print(f'Initial Weight: {initial_weight:.8f}, Initial Bias: {initial_bias:.8f}\n')
 
 loss_function = nn.MSELoss()
